@@ -9,4 +9,5 @@
 ~~/skills - используй для привязки навыков к проекту~~\
 ~~/delete - используй для удаления проекта~~\
 ![2024-05-11_13-17-15](https://github.com/Jproga/db_profect/assets/138982927/0003aed4-1994-4e58-aa74-ac9e38132d05)
-![Uploading 2024-05-11_13-16-36.png…]()
+![2024-05-11_13-16-36](https://github.com/Jproga/db_profect/assets/138982927/16bdaf8b-fe2d-45ff-8257-233f597c6c0c)
+
